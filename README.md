@@ -1,4 +1,4 @@
-# startup_expansion
+# Startup Expansion
 Tableau
 
 ![](Grouping.png)
